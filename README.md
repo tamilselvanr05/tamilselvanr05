@@ -112,12 +112,15 @@ A full-stack, real-time chat application designed to provide interactive communi
 **What I worked with:** React.js, Node.js, Express.js, MongoDB, Socket.IO, Firebase, WebRTC, and Gemini AI.
 
 <p>
+  <a href="https://chatspaces.netlify.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20ChatSpace-6C4AB6?style=for-the-badge&logo=netlify&logoColor=white" alt="ChatSpace Live Demo"/>
+  </a>
   <a href="https://github.com/tamilselvanr05/ChatSpace">
     <img src="https://img.shields.io/badge/View%20Source%20Code-181717?style=for-the-badge&logo=github" alt="View ChatSpace source code"/>
   </a>
 </p>
 
-### 🛡️ Cyber Threat Alerts & Auto-Defense System
+### 🛡️ Cyber Threat Intelligence Auto-Defense System
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
@@ -126,7 +129,7 @@ A full-stack, real-time chat application designed to provide interactive communi
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
 </p>
 
-An AI-powered cybersecurity project focused on collecting and analyzing cyber threat intelligence and supporting threat response workflows.
+A cybersecurity project focused on collecting and analyzing cyber threat intelligence and supporting threat response workflows.
 
 **Key Features**
 - 🌐 Threat intelligence integration using AlienVault OTX
@@ -135,10 +138,12 @@ An AI-powered cybersecurity project focused on collecting and analyzing cyber th
 - ⚡ Real-time threat alerts using WebSocket
 - 🔐 Automated and manual IP-blocking workflows
 
-**What I worked with:** Python, Flask, React, SQLite, WebSocket, Google Gemini API, and AlienVault OTX API.
+**Technologies:** Python, Flask, React, SQLite, WebSocket, Google Gemini API, and AlienVault OTX API.
 
 <p>
-  <img src="https://img.shields.io/badge/Cybersecurity-Threat%20Intelligence-003B73?style=for-the-badge" alt="Cybersecurity project"/>
+  <a href="https://github.com/tamilselvanr05/Cyber-Threat-Intelligence-Auto-Defense-System">
+    <img src="https://img.shields.io/badge/View%20Source%20Code-181717?style=for-the-badge&logo=github" alt="Cyber Threat Intelligence Auto-Defense System source code"/>
+  </a>
 </p>
 
 ---
@@ -146,24 +151,13 @@ An AI-powered cybersecurity project focused on collecting and analyzing cyber th
 ## 💼 Professional Experience
 
 ### MERN Stack Developer Intern
+
 **Irohub Infotech** | June 2026 – Present
 
 - Developed full-stack web application features using MERN stack technologies.
 - Built responsive and interactive user interfaces using React.js, HTML, CSS, and JavaScript.
 - Developed REST APIs and integrated frontend components with backend services and MongoDB.
 - Practiced debugging, testing, and improving application functionality.
-
----
-
-## 🎓 Education
-
-**Bachelor of Technology — Information Technology**  
-Kumaraguru College of Technology, Coimbatore  
-📅 2023 – 2026 | **CGPA: 7.2/10**
-
-**Diploma in Computer Engineering**  
-Kongu Polytechnic College, Tamil Nadu  
-📅 2021 – 2023 | **94.6%**
 
 ---
 
